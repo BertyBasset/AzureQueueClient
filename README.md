@@ -1,2 +1,2 @@
 # AzureQueueClient
-Queue client that bind client object type to Json objects in Queue
+Queue client that binds client object type to JSON objects in Azure Queue.
